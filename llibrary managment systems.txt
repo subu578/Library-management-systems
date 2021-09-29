@@ -1,0 +1,3 @@
+hash welcome to library management systems
+login page
+select the name of the customer
